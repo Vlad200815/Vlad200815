@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Vlad Semenuk</h1>
+<h1 align="center">Hi 👋, I'm Vlad Semeniuk</h1>
 <h3 align="center">A passionate flutter developer from Ukrain</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxlNW1lZWhteTgyMDJ0NWZzdHFjaWRmN3JpcjlteWw4MmE4aDkxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [my Pizza App](https://github.com/Vlad200815/Pizza-Admin-)
 
-- 🌱 I’m currently learning **Flutter, Go_Router, Git**
+- 🌱 I’m currently learning **Flutter, SQLite, FastAPI**
 
-- 🤝 I’m looking for help with **a job**
+- 🤝 I’m looking for **a job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vlad200815?tab=repositories](https://github.com/Vlad200815?tab=repositories)
 
