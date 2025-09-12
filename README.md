@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlad200815&label=Profile%20views&color=0e75b6&style=flat" alt="vlad200815" /> </p>
 
-- 🔭 I’m currently working on [my Vlad'sCards](https://github.com/Vlad200815/Vlad-sCards)
+- 🔭 I’m currently working on [our GooseTap app]([https://github.com/](https://github.com/Vlad200815/GooseTap))
 
 - 🌱 I’m currently learning **Flutter, SQLite, FastAPI**
 
