@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vlad Semeniuk</h1>
-<h3 align="center">A passionate flutter developer from Ukrain</h3>
+<h3 align="center">A passionate flutter developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxlNW1lZWhteTgyMDJ0NWZzdHFjaWRmN3JpcjlteWw4MmE4aDkxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlad200815&label=Profile%20views&color=0e75b6&style=flat" alt="vlad200815" /> </p>
