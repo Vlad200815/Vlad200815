@@ -1,31 +1,76 @@
-
-
 <h1 align="center">Hi 👋, I'm Vlad Semeniuk</h1>
-<h3 align="center">A passionate flutter developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxlNW1lZWhteTgyMDJ0NWZzdHFjaWRmN3JpcjlteWw4MmE4aDkxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
+<h3 align="center">Flutter Developer · 2+ years · Lutsk, Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vlad200815&label=Profile%20views&color=0e75b6&style=flat" alt="vlad200815" /> </p>
-
-- 🔭 I’m currently working on [our GooseTap app]([https://github.com/](https://github.com/Vlad200815/GooseTap))
-
-- 🌱 I’m currently learning **Flutter, SQLite, FastAPI**
-
-- 🤝 I’m looking for **a job**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vlad200815?tab=repositories](https://github.com/Vlad200815?tab=repositories)
-
-- 💬 Ask me about **flutter, firebase, bloc, api**
-
-- 📫 How to reach me **svg110308@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vlad200815&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+### About me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlad200815&show_icons=true&locale=en&layout=compact" alt="vlad200815" /></p>
+- 🏗️ **Currently building** SheNaPari — a B2B SaaS pre-ordering platform (Flutter mobile + .NET backend)
+- 💼 **Commercial experience** — 4-month Flutter Trainee at *ideil*, shipped a pixel-perfect movie & TV discovery app with 6 Firebase services and Gemini AI
+- 🎓 **1st-year Software Engineering** student at Lutsk National Technical University
+- 🔭 **Currently deepening** — Clean Architecture testing, modern BLoC patterns (EventTransformers, `bloc_concurrency`), native platform channels
+- 💬 **Ask me about** — Flutter, BLoC, Firebase ecosystem, Clean Architecture, Retrofit + Dio, offline-first patterns
+- 🤝 **Open to** — Junior+ / Middle Flutter roles (Lutsk office or remote)
+- 📫 **Reach me** — svg110308@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlad200815&" alt="vlad200815" /></p>
+---
 
+### Pinned work
+
+| Project | Stack | Status |
+|---|---|---|
+| **Lybianka** — personal finance tracker | Flutter · BLoC · Clean Architecture · `fl_chart` · `shared_preferences` | Shipped |
+| **SheNaPari** — B2B SaaS pre-ordering | Flutter · .NET 10 · PostgreSQL · JWT · Azure | In development |
+| **Weather App** — ideil entry test task | Flutter · Dio · OpenWeather API · BLoC | Completed |
+
+---
+
+### Tech stack
+
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/></a>&nbsp;
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/></a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/></a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/></a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/></a>
+</p>
+
+**Mobile:** Flutter · Dart · BLoC · Cubit · Provider · Clean Architecture · MVVM · Material 3 · Cupertino
+**Networking:** REST · Dio · Retrofit · `build_runner` · `freezed` · `json_serializable`
+**Storage:** SQLite · Hive · `shared_preferences` · offline-first patterns
+**Firebase:** Auth · Firestore · FCM · Crashlytics · Analytics · Gemini AI
+**Tools:** Git · GitHub · Figma · Postman · Android Studio · VS Code
+
+---
+
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vlad-semeniuk-a112a6265" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Vlad_Semeniuk_1" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:svg110308@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vlad200815&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=html,css,c,cmake,cpp" alt="top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vlad200815&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+</p>
