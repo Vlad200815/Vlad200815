@@ -65,12 +65,3 @@
 
 ---
 
-### GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vlad200815&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=html,css,c,cmake,cpp" alt="top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vlad200815&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-</p>
