@@ -9,7 +9,7 @@
 
 - 🏗️ **Currently building** SheNaPari — a B2B SaaS pre-ordering platform (Flutter mobile + .NET backend)
 - 💼 **Commercial experience** — 4-month Flutter Trainee at *ideil*, shipped a pixel-perfect movie & TV discovery app with 6 Firebase services and Gemini AI
-- 🎓 **1st-year Software Engineering** student at Lutsk National Technical University
+- 🎓 **2nd-year Software Engineering** student at Lutsk National Technical University
 - 🔭 **Currently deepening** — Clean Architecture testing, modern BLoC patterns (EventTransformers, `bloc_concurrency`), native platform channels
 - 💬 **Ask me about** — Flutter, BLoC, Firebase ecosystem, Clean Architecture, Retrofit + Dio, offline-first patterns
 - 🤝 **Open to** — Junior+ / Middle Flutter roles (Lutsk office or remote)
